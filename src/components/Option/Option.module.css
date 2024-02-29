@@ -5,8 +5,10 @@
 
 .buttonAnswer{
     padding: 5px;
+    cursor: pointer;
 }
 
 .buttonReset{
     padding: 5px;
+    cursor: pointer;
 }
