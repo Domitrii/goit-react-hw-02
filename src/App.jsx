@@ -1,6 +1,6 @@
 import Feedback from './components/Feedback/Feedback'
 import Description from './components/Description/Description'
-import Option from './components/Option/Option'
+import Option from './components/Options/Options'
 import { useEffect, useState } from 'react'
 import Notification from './components/Feedback/Notification'
 
