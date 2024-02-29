@@ -1,0 +1,12 @@
+.buttonStatic{
+    display: flex;
+    gap: 5px;
+}
+
+.buttonAnswer{
+    padding: 5px;
+}
+
+.buttonReset{
+    padding: 5px;
+}
